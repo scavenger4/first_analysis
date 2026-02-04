@@ -1,0 +1,5 @@
+matplotlib==3.10.1
+pandas==2.2.3
+phik==0.12.5
+python-dotenv==1.2.1
+SQLAlchemy==2.0.46
